@@ -1,0 +1,11 @@
+#include &lt;iostream&gt;
+#using namespace std;
+
+/**
+ **Task0 - A simple hello world code to pass betty style
+ */
+int main()
+{
+  cout &lt;&lt; "Hello world!" &lt;&lt; endl;
+  return 0;
+}
